@@ -1,6 +1,7 @@
 # ConnectAI 🚀
 
 A Streamlit web application that helps you find and track job opportunities by scraping LinkedIn and providing intelligent notifications.
+You can check the website in this link : https://connect-ai.streamlit.app 
 
 ## Features
 
